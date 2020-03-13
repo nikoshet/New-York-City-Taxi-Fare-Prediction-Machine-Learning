@@ -1,6 +1,6 @@
 # Machine Learning M.Sc. Course Project
 
-Dataset: "New York City Taxi Fare Prediction".
+Dataset: "New York City Taxi Fare Prediction" (Kaggle).
 
 More can be found [here](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/)
 
@@ -28,14 +28,26 @@ More can be found [here](https://www.kaggle.com/c/new-york-city-taxi-fare-predic
        | General
        | Geospatial Data   
 │
-└──Exploratory Data Analysis
+└── Exploratory Data Analysis
+   | General Analysis
+   | Feature Interaction
+   | Plots
 │
-└──Machine Learning
+└── Machine Learning
    | Split Data Into Train, Test set
+   | Functions
    | Algorithms
+       | Linear Regression
        | Random Forest
        | Linear Support Vector Regression
+       | XGBoost
+       | Voting Regressor
+       | Bagging Regressor
+       | Histogram-based Gradient Boosting Regression Tree
+       | Neural Network
+   | Results
 ```
+(The files JFK2.txt,LaGuardia2.txt,Manhattan.txt,Newark2.txt contain the coordinates that contain the airports and Manhattan)
 
 ### Licence
 Copyright © 2020 Nick Nikitas, Filippos Markolefas, Myron Sampsakis
