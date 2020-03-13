@@ -39,7 +39,7 @@ More can be found [here](https://www.kaggle.com/c/new-york-city-taxi-fare-predic
    | Algorithms
        | Linear Regression
        | Random Forest
-       | Linear Support Vector Regression
+       | Epsilon-Support Vector Regression
        | XGBoost
        | Voting Regressor
        | Bagging Regressor
@@ -47,7 +47,7 @@ More can be found [here](https://www.kaggle.com/c/new-york-city-taxi-fare-predic
        | Neural Network
    | Results
 ```
-(The files JFK2.txt,LaGuardia2.txt,Manhattan.txt,Newark2.txt contain the coordinates that contain the airports and Manhattan)
+(The files JFK2.txt, LaGuardia2.txt, Manhattan.txt, Newark2.txt contain the coordinates for the NYC airports and Manhattan)
 
 ### Licence
 Copyright © 2020 Nick Nikitas, Filippos Markolefas, Myron Sampsakis
