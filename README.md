@@ -26,7 +26,7 @@ More can be found [here](https://www.kaggle.com/c/new-york-city-taxi-fare-predic
    | Feature Extraction
    | Clean Data
        | General
-       | Geospatial Data   
+       | Geospatial Data
 │
 └── Exploratory Data Analysis
    | General Analysis
@@ -48,7 +48,8 @@ More can be found [here](https://www.kaggle.com/c/new-york-city-taxi-fare-predic
    | Results
 ```
 (The files JFK2.txt, LaGuardia2.txt, Manhattan.txt, Newark2.txt contain the coordinates for the NYC airports and Manhattan)
-
+## Libraries Used
+pandas, numpy, matplotlib, seaborn, shapely, sklearn, keras
 ### Licence
 Copyright © 2020 Nick Nikitas, Filippos Markolefas, Myron Sampsakis
 
